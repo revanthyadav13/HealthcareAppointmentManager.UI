@@ -1,0 +1,41 @@
+﻿@model IEnumerable<HealthcareAppointmentManager.UI.Models.Appointment>
+
+@{
+    ViewBag.Title = "Patient Appointments";
+    Layout = "~/Views/Shared/_LayoutPatient.cshtml";
+}
+
+<h2>Patient Appointments</h2>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Appointment ID</th>
+                <th>Doctor ID</th>
+                <th>Appointment Date</th>
+                <th>Appointment Time</th>
+                <th>Appointment Status</th>
+                <th>Purpose Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var appointment in Model)
+            {
+                <tr>
+                    <td>@appointment.AppointmentID</td>
+                    <td>@appointment.DoctorID</td>
+                    <td>@appointment.AppointmentDate.ToString("yyyy-MM-dd")</td>
+                    <td>@appointment.AppointmentTime.ToString(@"hh\:mm")</td>
+                    <td>@appointment.AppointmentStatus</td>
+                    <td>@appointment.PurposeDescription</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No appointments found.</p>
+}

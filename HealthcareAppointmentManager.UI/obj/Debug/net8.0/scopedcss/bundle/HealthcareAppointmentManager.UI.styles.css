@@ -1,0 +1,49 @@
+/* _content/HealthcareAppointmentManager.UI/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-ihn3o022vb] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-ihn3o022vb] {
+  color: #0077cc;
+}
+
+.btn-primary[b-ihn3o022vb] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-ihn3o022vb], .nav-pills .show > .nav-link[b-ihn3o022vb] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-ihn3o022vb] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-ihn3o022vb] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-ihn3o022vb] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-ihn3o022vb] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-ihn3o022vb] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

@@ -1,0 +1,46 @@
+﻿@model IEnumerable<HealthcareAppointmentManager.UI.Models.Appointment>
+
+@{
+    ViewData["Title"] = "Doctor Appointments";
+    Layout = "~/Views/Shared/_LayoutDoctor.cshtml";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Appointment ID</th>
+                <th>Patient ID</th>
+                <th>Appointment Date</th>
+                <th>Appointment Time</th>
+                <th>Status</th>
+                <th>Purpose</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var appointment in Model)
+            {
+                <tr>
+                    <td>@appointment.AppointmentID</td>
+                    <td>@appointment.PatientID</td>
+                    <td>@appointment.AppointmentDate.ToString("MM/dd/yyyy")</td>
+                    <td>@appointment.AppointmentTime.ToString(@"hh\:mm")</td>
+                    <td>@appointment.AppointmentStatus</td>
+                    <td>@appointment.PurposeDescription</td>
+                    <td>
+                        <a asp-action="EditAppointmentById" asp-controller="Appointment" asp-route-id="@appointment.AppointmentID" class="btn btn-outline-secondary">Edit</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="alert alert-info">
+        No appointments found for the doctor.
+    </div>
+}

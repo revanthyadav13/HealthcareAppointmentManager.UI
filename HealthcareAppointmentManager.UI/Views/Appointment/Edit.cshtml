@@ -1,0 +1,59 @@
+﻿@model HealthcareAppointmentManager.UI.Models.Appointment
+@* @{
+    Layout = "~/Views/Shared/_LayoutPatient.cshtml";
+} *@
+<div>
+    <form asp-action="SaveAppointment" asp-controller="Appointment" method="post">
+        <input asp-for="AppointmentID" type="hidden" />
+        <div class="row">
+            <div class="col-md-6">
+                <label asp-for="PatientID" class="control-label">Patient ID</label>
+                <input asp-for="PatientID" type="text" class="form-control" readonly />
+                <span asp-validation-for="PatientID" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <label asp-for="DoctorID" class="control-label">Doctor ID</label>
+                <input asp-for="DoctorID" type="text" class="form-control" readonly />
+                <span asp-validation-for="DoctorID" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <label asp-for="AppointmentDate" class="control-label">Appointment Date</label>
+                <input asp-for="AppointmentDate" type="date" class="form-control" readonly />
+                <span asp-validation-for="AppointmentDate" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <label asp-for="AppointmentTime" class="control-label">Appointment Time</label>
+                <input asp-for="AppointmentTime" type="time" class="form-control" readonly />
+                <span asp-validation-for="AppointmentTime" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <label asp-for="AppointmentStatus" class="control-label">Appointment Status</label>
+                <input asp-for="AppointmentStatus" class="form-control" />
+                <span asp-validation-for="AppointmentStatus" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <label asp-for="PurposeDescription" class="control-label">Purpose Description</label>
+                <input asp-for="PurposeDescription" class="form-control" readonly />
+                <span asp-validation-for="PurposeDescription" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </div>
+        <div class="row">
+            <span class="text-success">@ViewBag.Message</span>
+        </div>
+    </form>
+</div>

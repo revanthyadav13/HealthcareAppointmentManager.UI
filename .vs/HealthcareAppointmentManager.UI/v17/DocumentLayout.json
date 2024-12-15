@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager.UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{282B435C-F6CA-4500-8EE8-8C7EFB90B912}|HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI.csproj|c:\\users\\revan\\source\\repos\\healthcareappointmentmanager.ui\\healthcareappointmentmanager.ui\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{282B435C-F6CA-4500-8EE8-8C7EFB90B912}|HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI.csproj|solutionrelative:healthcareappointmentmanager.ui\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282B435C-F6CA-4500-8EE8-8C7EFB90B912}|HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI.csproj|c:\\users\\revan\\source\\repos\\healthcareappointmentmanager.ui\\healthcareappointmentmanager.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{282B435C-F6CA-4500-8EE8-8C7EFB90B912}|HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI.csproj|solutionrelative:healthcareappointmentmanager.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282B435C-F6CA-4500-8EE8-8C7EFB90B912}|HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI.csproj|c:\\users\\revan\\source\\repos\\healthcareappointmentmanager.ui\\healthcareappointmentmanager.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{282B435C-F6CA-4500-8EE8-8C7EFB90B912}|HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI.csproj|solutionrelative:healthcareappointmentmanager.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282B435C-F6CA-4500-8EE8-8C7EFB90B912}|HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI.csproj|c:\\users\\revan\\source\\repos\\healthcareappointmentmanager.ui\\healthcareappointmentmanager.ui\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282B435C-F6CA-4500-8EE8-8C7EFB90B912}|HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI.csproj|solutionrelative:healthcareappointmentmanager.ui\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282B435C-F6CA-4500-8EE8-8C7EFB90B912}|HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI.csproj|c:\\users\\revan\\source\\repos\\healthcareappointmentmanager.ui\\healthcareappointmentmanager.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282B435C-F6CA-4500-8EE8-8C7EFB90B912}|HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI.csproj|solutionrelative:healthcareappointmentmanager.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282B435C-F6CA-4500-8EE8-8C7EFB90B912}|HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI.csproj|c:\\users\\revan\\source\\repos\\healthcareappointmentmanager.ui\\healthcareappointmentmanager.ui\\views\\shared\\_layoutdoctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{282B435C-F6CA-4500-8EE8-8C7EFB90B912}|HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI.csproj|solutionrelative:healthcareappointmentmanager.ui\\views\\shared\\_layoutdoctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282B435C-F6CA-4500-8EE8-8C7EFB90B912}|HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI.csproj|c:\\users\\revan\\source\\repos\\healthcareappointmentmanager.ui\\healthcareappointmentmanager.ui\\views\\shared\\_layoutpatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{282B435C-F6CA-4500-8EE8-8C7EFB90B912}|HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI.csproj|solutionrelative:healthcareappointmentmanager.ui\\views\\shared\\_layoutpatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282B435C-F6CA-4500-8EE8-8C7EFB90B912}|HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI.csproj|c:\\users\\revan\\source\\repos\\healthcareappointmentmanager.ui\\healthcareappointmentmanager.ui\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{282B435C-F6CA-4500-8EE8-8C7EFB90B912}|HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI.csproj|solutionrelative:healthcareappointmentmanager.ui\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282B435C-F6CA-4500-8EE8-8C7EFB90B912}|HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI.csproj|c:\\users\\revan\\source\\repos\\healthcareappointmentmanager.ui\\healthcareappointmentmanager.ui\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{282B435C-F6CA-4500-8EE8-8C7EFB90B912}|HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI.csproj|solutionrelative:healthcareappointmentmanager.ui\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282B435C-F6CA-4500-8EE8-8C7EFB90B912}|HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI.csproj|c:\\users\\revan\\source\\repos\\healthcareappointmentmanager.ui\\healthcareappointmentmanager.ui\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282B435C-F6CA-4500-8EE8-8C7EFB90B912}|HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI.csproj|solutionrelative:healthcareappointmentmanager.ui\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282B435C-F6CA-4500-8EE8-8C7EFB90B912}|HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI.csproj|c:\\users\\revan\\source\\repos\\healthcareappointmentmanager.ui\\healthcareappointmentmanager.ui\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282B435C-F6CA-4500-8EE8-8C7EFB90B912}|HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI.csproj|solutionrelative:healthcareappointmentmanager.ui\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "HealthcareAppointmentManager.UI\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "HealthcareAppointmentManager.UI\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T13:13:43.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointmentManager.UI\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI\\Models\\Doctor.cs",
+              "RelativeToolTip": "HealthcareAppointmentManager.UI\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:47:52.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LayoutPatient.cshtml",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI\\Views\\Shared\\_LayoutPatient.cshtml",
+              "RelativeDocumentMoniker": "HealthcareAppointmentManager.UI\\Views\\Shared\\_LayoutPatient.cshtml",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI\\Views\\Shared\\_LayoutPatient.cshtml",
+              "RelativeToolTip": "HealthcareAppointmentManager.UI\\Views\\Shared\\_LayoutPatient.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T06:54:50.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "HealthcareAppointmentManager.UI\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "HealthcareAppointmentManager.UI\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-28T06:54:49.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "HealthcareAppointmentManager.UI\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "HealthcareAppointmentManager.UI\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T06:54:49.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointmentManager.UI\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI\\Models\\Patient.cs",
+              "RelativeToolTip": "HealthcareAppointmentManager.UI\\Models\\Patient.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:42:18.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointmentManager.UI\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "HealthcareAppointmentManager.UI\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:34:19.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LayoutDoctor.cshtml",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI\\Views\\Shared\\_LayoutDoctor.cshtml",
+              "RelativeDocumentMoniker": "HealthcareAppointmentManager.UI\\Views\\Shared\\_LayoutDoctor.cshtml",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI\\Views\\Shared\\_LayoutDoctor.cshtml",
+              "RelativeToolTip": "HealthcareAppointmentManager.UI\\Views\\Shared\\_LayoutDoctor.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T06:33:57.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HealthcareAppointmentManager.UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HealthcareAppointmentManager.UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T13:25:55.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HealthcareAppointmentManager.UI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HealthcareAppointmentManager.UI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T13:22:15.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI\\Program.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointmentManager.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\revan\\source\\repos\\HealthcareAppointmentManager.UI\\HealthcareAppointmentManager.UI\\Program.cs",
+              "RelativeToolTip": "HealthcareAppointmentManager.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:35:45.401Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

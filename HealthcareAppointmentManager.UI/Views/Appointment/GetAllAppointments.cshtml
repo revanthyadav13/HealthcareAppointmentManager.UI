@@ -1,0 +1,39 @@
+﻿@model List<HealthcareAppointmentManager.UI.Models.Appointment>
+
+<div>
+    <table class="table table-bordered table-hover">
+        <tr>
+            <th>Appointment ID</th>
+            <th>Patient ID</th>
+            <th>Doctor ID</th>
+            <th>Appointment Date</th>
+            <th>Appointment Time</th>
+            <th>Appointment Status</th>
+            <th>Purpose Description</th>
+        </tr>
+        @if (Model.Count > 0)
+        {
+            foreach (var data in Model)
+            {
+                <tr>
+                    <td>@data.AppointmentID</td>
+                    <td>@data.PatientID</td>
+                    <td>@data.DoctorID</td>
+                    <td>@data.AppointmentDate</td>
+                    <td>@data.AppointmentTime</td>
+                    <td>@data.AppointmentStatus</td>
+                    <td>@data.PurposeDescription</td>
+                    <td>
+                        <a asp-action="EditAppointmentById" asp-controller="Appointment" asp-route-id="@data.AppointmentID" class="btn btn-outline-secondary">Edit</a>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="5">No Record Found</td>
+            </tr>
+        }
+    </table>
+</div>
